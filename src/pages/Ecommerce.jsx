@@ -63,13 +63,13 @@ function Ecommerce() {
           <div className='flex justify-between'>
             <p className='font-semibold text-xl'>Revenue Updates</p>
             <div className='flex items-center gap-4'>
-              <p className='flex items-center gap-2 text-gray-600 hover:drop-shadow-xl'>
+              <p className='flex items-center gap-2 text-gray-600 hover:drop-shadow-xl mt-2'>
                 <span>
                   <GoPrimitiveDot />
                 </span>
                 <span>Expense</span>
               </p>
-              <p className='flex items-center gap-2 text-green-400 hover:drop-shadow-xl'>
+              <p className='flex items-center gap-2 text-green-400 hover:drop-shadow-xl mr-5 mt-2'>
                 <span>
                   <GoPrimitiveDot />
                 </span>
@@ -83,7 +83,7 @@ function Ecommerce() {
                 <p>
                   <span className='text-3xl font-semibold'>$87,394</span>
                   <span className='p-1.5 hover:drop-shadow-xl cursor-pointer rounded-full text-white bg-green-400 ml-3 text-xs'>
-                    23%
+                    27%
                   </span>
                 </p>
                 <p className='text-gray-500 mt-1'>Budget</p>
