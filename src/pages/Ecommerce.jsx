@@ -115,10 +115,7 @@ function Ecommerce() {
               </div>
             </div>
             <div>
-              <Stacked 
-              width='320px'
-              height='360px'
-              />
+              <Stacked width='320px' height='360px' />
             </div>
           </div>
         </div>
