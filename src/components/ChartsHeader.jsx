@@ -10,4 +10,6 @@ const ChartsHeader = ({ category, title }) => (
   </div>
 );
 
+// G'Day Mate
+
 export default ChartsHeader;
